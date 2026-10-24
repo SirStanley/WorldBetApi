@@ -1,0 +1,8 @@
+xgboost
+pandas
+scipy
+pymysql
+numpy
+joblib
+fastapi
+uvicorn

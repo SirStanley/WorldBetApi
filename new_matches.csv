@@ -1,0 +1,33 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2026-09-25,Italy,Belgium,0,0,UEFA Nations League,Stadio Olimpico,Italy,false
+2026-09-25,Turkey,France,0,0,UEFA Nations League,Kocaeli Stadyumu,Turkey,false
+2026-09-28,Belgium,France,0,0,UEFA Nations League,Stadion Króla Baudouina I,Belgium,false
+2026-09-28,Turkey,Italy,0,0,UEFA Nations League,Timsah Arena,Turkey,false
+2026-10-02,France,Italy,0,0,UEFA Nations League,Stade de France,France,false
+2026-10-02,Belgium,Turkey,0,0,UEFA Nations League,Stade Maurice Dufrasne,Belgium,false
+2026-10-05,France,Belgium,0,0,UEFA Nations League,Stade de France,France,false
+2026-10-05,Italy,Turkey,0,0,UEFA Nations League,Stadio Renato Dall’Ara,Italy,false
+2026-09-24,Netherlands,Germany,0,0,UEFA Nations League,Johan Cruijff Arena,Netherlands,false
+2026-09-24,Serbia,Greece,0,0,UEFA Nations League,Stadion Rajko Mitić,Serbia,false
+2026-09-27,Serbia,Netherlands,0,0,UEFA Nations League,Stadion Rajko Mitić,Serbia,false
+2026-09-27,Germany,Greece,0,0,UEFA Nations League,WWK Arena,Germany,false
+2026-10-01,Greece,Netherlands,0,0,UEFA Nations League,Stadion Tumba,Greece,false
+2026-10-01,Germany,Serbia,0,0,UEFA Nations League,Allianz Arena,Germany,false
+2026-10-04,Netherlands,Serbia,0,0,UEFA Nations League,Philips Stadion,Netherlands,false
+2026-10-04,Greece,Germany,0,0,UEFA Nations League,Stadion Tumba,Greece,false
+2026-09-26,England,Spain,0,0,UEFA Nations League,Stadion Wembley,England,false
+2026-09-26,Czech Republic,Croatia,0,0,UEFA Nations League,Fortuna Arena,Czech Republic,false
+2026-09-29,Spain,Croatia,0,0,UEFA Nations League,Estadio Ramón Sánchez Pizjuán,Spain,false
+2026-09-29,Czech Republic,England,0,0,UEFA Nations League,Fortuna Arena,Czech Republic,false
+2026-10-03,Croatia,England,0,0,UEFA Nations League,Stadion Rujevica,Croatia,false
+2026-10-03,Spain,Czech Republic,0,0,UEFA Nations League,Estadio Carlos Tartiere,Spain,false
+2026-10-06,Croatia,Spain,0,0,UEFA Nations League,Poljud,Croatia,false
+2026-10-06,England,Czech Republic,0,0,UEFA Nations League,Stadion Wembley,England,false
+2026-09-24,Portugal,Wales,0,0,UEFA Nations League,Estádio do Alvalade,Portugal,false
+2026-09-24,Norway,Denmark,0,0,UEFA Nations League,Ullevaal Stadion,Norway,false
+2026-09-27,Denmark,Wales,0,0,UEFA Nations League,Parken,Denmark,false
+2026-09-27,Norway,Portugal,0,0,UEFA Nations League,Ullevaal Stadion,Norway,false
+2026-10-01,Wales,Norway,0,0,UEFA Nations League,Cardiff City Stadium,Wales,false
+2026-10-01,Denmark,Portugal,0,0,UEFA Nations League,Parken,Denmark,false
+2026-10-04,Portugal,Norway,0,0,UEFA Nations League,Estádio do Dragão,Portugal,false
+2026-10-04,Wales,Denmark,0,0,UEFA Nations League,Cardiff City Stadium,Wales,false
